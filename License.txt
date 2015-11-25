@@ -1,4 +1,4 @@
-Twilight Sparkle's Secret Shipfic Folder: the Card Game is a fan-created work of parody for My Little Pony: Friendship is Magic. It is not affiliated with Hasbro in any way.
+﻿Twilight Sparkle's Secret Shipfic Folder: the Card Game is a fan-created work of parody for My Little Pony: Friendship is Magic. It is not affiliated with Hasbro in any way.
 
 Because it's a work by fans, for fans, it is shared under the Attribution Non-Commercial ShareAlike license. That means:
 
@@ -10,7 +10,7 @@ The licensor cannot revoke these freedoms as long as you follow the license term
 Under the following terms:
 
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-NonCommercial — You may not use the material for commercial purposes.
+NonCommercial/Commercial — You may use the material for any purpose, including commercial purposes.
 ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 Notices:
